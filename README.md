@@ -10,7 +10,7 @@ A brief overview how Info part of BaseSwap website works.
 
 First you must clone the repository.
 ```
-git clone https://bitbucket.org/baseswap_2x/ver_2.git
+git clone https://github.com/Avantsoftchain/Aptec_x7.git
 ```
 
 ## Install the dependencies
