@@ -40,7 +40,6 @@
     "transliteration": "^2.3.5"
   },
   "devDependencies": {
-    "concurrently": "7.5.0",
     "nodemon": "^1.19.2"
   },
   "_moduleAliases": {
